@@ -1,6 +1,6 @@
 # Thiran Challange - FlightBooking App UI
 
-<img src=https://github.com/thedemonKingx1337/Thiran-Challenge-2-Github-API/assets/43701328/d116ee6c-0d52-41c7-94e6-51f069bb0e91 width="600" height="600"/>
+<img src=https://github.com/thedemonKingx1337/Thiran-Challenge-2-Github-API/assets/43701328/d116ee6c-0d52-41c7-94e6-51f069bb0e91 width="300" height="650"/>
 
 ## Problem Statement:
 
