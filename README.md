@@ -1,16 +1,10 @@
-# flutter_application_001
+# Thiran Challange - FlightBooking App UI
 
-A new Flutter project.
+<img src=https://github.com/thedemonKingx1337/Thiran-Challenge-2-Github-API/assets/43701328/d116ee6c-0d52-41c7-94e6-51f069bb0e91 width="600" height="600"/>
 
-## Getting Started
+## Problem Statement:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+recreate the UI given in the below URL. Required assets has to 
+managed on your own. The expectation is to have the UI replicated the same way as in the 
+design and add the required animations & transitions to suit the design.
+https://www.uplabs.com/posts/flight-booking-mobile-app-light-version
